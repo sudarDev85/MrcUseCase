@@ -7,7 +7,7 @@
     "classnames": "^2.2.6",
     "connected-react-router": "^6.5.2",
     "css-loader": "^1.0.1",
-    "date-and-time": "^0.8.1",
+    "date-and-time": "^0.14.2",
     "history": "^4.9.0",
     "primeicons": "^1.0.0",
     "primereact": "^3.1.7",
